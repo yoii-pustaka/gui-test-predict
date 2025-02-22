@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Streamlit cache & logs
+.streamlit/
+__pycache__/
+logs/
+
+# Jupyter Notebook checkpoints (jika ada)
+.ipynb_checkpoints/
+
+# Ignore data files (opsional)
+*.csv
+*.db
+*.sqlite
+*.json
+*.xlsx
+
+# Ignore system files
+.DS_Store
+Thumbs.db
