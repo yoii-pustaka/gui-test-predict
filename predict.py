@@ -12,7 +12,7 @@ MAX_VALUE = 2271.54
 MODELS_PATH = {
     "Model XGBoost Default": "models/xgboost_model_default_params.csv",
     "Model XGBoost GridSearchCV": "models/xgboost_model_gridsearchcv_params.csv", 
-    "Model XGBoost PSO": "models/xgboost_model_pso_params.csv"
+    "Model XGBoost PSO": "models/xgboost_pso_params.csv"
 }
 
 TRAIN_DATA_PATH = "models/train_data.csv"
