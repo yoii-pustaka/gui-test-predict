@@ -11,7 +11,7 @@ MAX_VALUE = 2271.54
 # Path model dari CSV
 MODELS_PATH = {
     "Model XGBoost Default": "models/xgboost_model_default_params.csv",
-    "Model XGBoost GridSearchCV": "models/xgboost_model_gridsearchcv_params.csv", 
+    "Model XGBoost GridSearchCV": "models/xgboost_gridsearchcv_params.csv", 
     "Model XGBoost PSO": "models/xgboost_pso_params.csv"
 }
 
